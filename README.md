@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I'm Amaan Ansari<br><br>🎓 Third-year Electronics and Communication Engineering student.<br><br>💡 Passionate about Artificial Intelligence, Python, Computer Vision, IoT, and Embedded Systems.<br><br>🚀 Currently building real-world projects while strengthening my skills in AI, Machine Learning, Full Stack Development, and Cloud technologies.<br><br>📚 Continuously learning modern tools and technologies to develop scalable, impactful, and industry-ready solutions.<br><br>🎯 Seeking opportunities to contribute, learn, and grow as a Software Engineer or AI Engineer.
+
+👋 Hi, I'm **Amaan Ansari**<br><br>
+🎓 Electronics and Communication Engineering Graduate.<br><br>
+💡 Passionate about **Artificial Intelligence, Python, Computer Vision, IoT, Embedded Systems, and Software Development**.<br><br>
+🚀 Building real-world projects while continuously enhancing my expertise in **AI, Machine Learning, Full Stack Development, and Cloud Technologies**.<br><br>
+📚 Committed to continuous learning and developing scalable, efficient, and industry-ready solutions through hands-on experience.<br><br>
+🎯 Actively seeking opportunities as a **Software Engineer, AI/ML Engineer, Computer Vision Engineer, or Python Developer** to contribute, innovate, and grow.
+
 
 
 ## 🌐 Socials:
